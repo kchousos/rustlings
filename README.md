@@ -1,3 +1,3 @@
-My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises. This repo is mainly used for syncing and archival purposes.
+<img src="./static/logo.png" align="right" width="200">
 
-Current progress: up to `structs3.rs` (32/94).
+My solutions to the [Rustlings](https://rustlings.rust-lang.org/) exercises.
